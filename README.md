@@ -1,5 +1,5 @@
 # LinuxAdminToolGUI
-Project Overview
+Project Overview (University final project for the time being, hopefully will expand more in the future)
 This project is a graphical user interface (GUI) tool designed to simplify user and group management, filesystem permissions, network settings, system monitoring, and firewall configuration in Linux environments. It provides an intuitive way for junior and senior system administrators to manage administrative tasks efficiently, without relying heavily on the command-line interface (CLI).
 
 The tool is particularly beneficial for environments where senior admins oversee junior admins, ensuring structured access control, reducing misconfigurations, and improving workflow efficiency.
